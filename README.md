@@ -1,5 +1,8 @@
 # Hi, I'm Gabriel 👋
-### PhD Mathematics | Data Scientist | Specialist in Modeling and Optimization
+### Data Analyst | PhD Mathematics | ML · Statistical Modeling · Python · SQL
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carrizogabriel/)
+
 
 PhD in Mathematics with expertise in optimization and numerical analysis. I combine this mathematical foundation with hands-on experience in machine learning and statistical analysis to extract actionable insights from complex data. Proven track record of developing  models to solve real-world problems, effectively improving key metrics while satisfying complex constraints.
 
