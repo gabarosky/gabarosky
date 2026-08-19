@@ -1,5 +1,5 @@
 # Hi, I'm Gabriel 👋
-### Data Analyst | PhD Mathematics | ML · Statistical Modeling · Python · SQL
+### Data Scientist and Optimization Specialist | PhD Mathematics | ML · Statistical Modeling · Python · SQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carrizogabriel/)
 
