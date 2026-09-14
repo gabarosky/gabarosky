@@ -70,7 +70,7 @@ Data Scientist with a PhD in Mathematics, specializing in predictive modeling, s
 
 ---
 
-### 3. 🧪 [A/B Testing: Digital Campaign Performance Analysis](https://github.com/gabarosky/ab-testing-campaign-analysis)
+### 3. 🧪 [A/B Testing: Digital Campaign Performance Analysis](https://github.com/gabarosky/AB_test)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gabarosky/AB_test/main/images/ab_test_results.png" width="70%" />
